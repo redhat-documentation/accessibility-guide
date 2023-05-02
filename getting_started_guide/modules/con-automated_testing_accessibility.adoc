@@ -1,0 +1,28 @@
+[id="con-automated_testing_accessibility"]
+
+= Automated testing
+
+[role="_abstract"]
+Automated testing focuses on finding accessibility issues, quickly and consistently, using an accessibility browser extension or integrated testing module. This is the quickest way to find accessibility issues in your content.
+
+[TIP]
+====
+After testing several browser extensions, the CCSA11y Team recommends the IBM Equal Access Accessibility Checker browser extension if you need to test a page for accessibility. However, this is for general accessibility testing on a local build of your document. If you test a page on the customer portal, you will get results from the entire framework rather than just from the content you've written.
+====
+
+Use the Accessibility Assessment option of the Accessibility Checker and set it to report results sorted by requirement rather than element role or rule. The IBM accessibility requirements and automated tools are numbered and aligned to the international standards, so it makes gathering and recording the results simple.
+
+Violations:: If *Violations* appear during this first verification step, we recommend stopping the verify process. Return the product to development for remediation.
+
+Needs Review:: If *Needs Review* issues appear during this first verification step, we recommend pausing the verify process. Ensure that these have already been resolved or return the product to development for remediation.
+
+It is counterproductive to continue to manual testing until the automated tool produces a report free of Violations or issues that Need Review. After the automated test returns a clean result, you can move on to manual tests.
+
+[NOTE]
+====
+Automated tests only cover a subset of the overall accessibility requirements. Therefore, automated tests must be followed by manual tests and screen reader tests to verify that all the applicable requirements have been met.
+====
+
+.Additional resources
+* link:https://www.ibm.com/able/toolkit/tools/[IBM Equal Access Toolkit]
+* link:https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp[IBM Equal Access Accessibility Chrome extension]

@@ -1,0 +1,16 @@
+[id="con-accessibility_intro_{context}"]
+
+= Accessibility at Red Hat
+
+[role="_abstract"]
+Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion. As content developers, with the knowledge that so many people access our sites and use our documentation to learn about and use our products, we must consider the diversity of our users when building that content. Accessible content creates a better experience for more people.
+
+There are many groups at Red Hat that are involved in the design of accessible technology, delivery of accessible content, and growing a workforce and marketplace that values accessibility. The CCS Accessibility Workgroup (CCSA11y) has been established to interpret accessibility guidance for CCS and support writers with guidelines and practical advice about how to craft accessible documentation for an accessible product.
+
+[role="_additional-resources"]
+
+.Additional resources
+
+* link://https://www.redhat.com/en/about/digital-accessibility/[Red Hat's accessibility policy]
+//* link://https://source.redhat.com/groups/public/rha11y/[Red Hat Accessibility (a11y) - RHa11y]
+//* link://https://source.redhat.com/groups/public/ccsa11y[CCS Accessibility Workgroup - CCSa11y]
