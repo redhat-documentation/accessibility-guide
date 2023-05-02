@@ -1,0 +1,12 @@
+[id="con-making_visual_accessible"]
+
+= Visual aspects
+
+[role="_abstract"]
+While it is acceptable to use visual styling in documentation, you should not rely on visual aspects of your content to convey meaning. Be cautious of referencing size, location, position, shape, or sound in information because they rely on a specific sense that some users may not have. For example, you should avoid:
+
+* Instructions like “to the right,” “to the left,”. Screen readers follow content in a linear fashion, reading it from top to bottom, so there is no “left” or “right” in that context.
+* Using color as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element. A text alternative that screen readers can speak out loud should always be included.
+* Using spacial relationships like "the larger area" "the smaller area" to describe information. This relies on vision and the ability to perceive spatial relationships.
+
+Instead, you should modify the instructions so that specific senses are not necessary to understand the information.
