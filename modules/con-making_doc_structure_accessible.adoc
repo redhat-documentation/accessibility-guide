@@ -1,0 +1,14 @@
+[id="con-making_doc_structure_accessible"]
+
+= Making document structure accessible
+
+[role="_abstract"]
+When creating accessible content, think in terms of structure first. Poor structure reduces the quality and usability of our documents. Documents with good structure are easy to read and easy to navigate. Documents with poor structure are tedious to navigate and difficult to read. Documents created without consideration of accessibility can also result in entire sections of the document to be unavailable to a person using a screen reader. To make the content easily understandable to anyone, you can rely on Red Hat's link://https://redhat-documentation.github.io/peer-review/#_minimalism[minimalism principles]:
+
+* Clear, concise paragraphs to make information accessible to more users.
+* Headings to convey structure, organization and content of the document.
+* Bullet lists to simplify and convey the most essential pieces of information.
+
+Developing documentation that is structurally accessible allows users to quickly focus their attention on your key points. And, screen readers can also easily navigate through your content, moving from section to section in a logical flow.
+
+Like all other accessibility guidelines, good content structuring raises usability for everyone, because everyone appreciates and quickly grasps well-structured content.

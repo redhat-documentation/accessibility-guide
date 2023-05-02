@@ -1,0 +1,16 @@
+[id="assembly-accessibility_testing"]
+
+= Accessibility testing
+
+[role="_abstract"]
+Accessibility testing helps find issues or barriers that users with disabilities might run into while using our content. The issues found during testing give us the opportunity to make improvements to the overall user experience with the product documentation.
+
+include::../modules/con-automated_testing_accessibility.adoc[leveloffset=+1]
+
+include::../modules/proc-manually_testing_accessibility.adoc[leveloffset=+1]
+
+include::../modules/con-screen_reader_testing_accessibility.adoc[leveloffset=+1]
+
+include::../modules/ref-accessibility_tools.adoc[leveloffset=+1]
+
+include::../modules/ref-accessibility_concise_checklist.adoc[leveloffset=+1]

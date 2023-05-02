@@ -1,0 +1,15 @@
+[id='assembly_getting_started']
+
+= Getting started with accessibility for writers
+A practical guide to help you develop accessible content.
+
+:doctype: book
+:toc: left
+:toclevels: 3
+:imagesdir: images
+
+include::assemblies/assembly-accessibility_intro.adoc[leveloffset=+1]
+
+include::assemblies/assembly-document_content.adoc[leveloffset=+1]
+
+include::assemblies/assembly-accessibility_testing.adoc[leveloffset=+1]
