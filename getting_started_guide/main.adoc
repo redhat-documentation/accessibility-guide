@@ -2,7 +2,6 @@
 
 = Getting started with accessibility for writers
 A practical guide to help you develop accessible content.
-
 :doctype: book
 :toc: left
 :toclevels: 3
