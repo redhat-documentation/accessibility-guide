@@ -1,0 +1,22 @@
+[id="ref-reference-material"]
+
+= CCSA11y recommended tools for accessibility testing
+
+The range of capabilities of automated testing tools is broad. Basic tools can test one page at a time using a defined set of rules. Basic automated testing tools can be extensions or add-ons to a specific browser, while others are browser-independent.
+
+.Automated accessibility checkers
+
+After testing several browser extensions, the CCSA11y Team recommends the link:https://chrome.google.com/webstore/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp[IBM Equal Access Accessibility Checker] browser extension if you need to test a page for accessibility. However, this is for general accessibility testing on a local build of your document. If you test a page on the customer portal, you will get results from the entire framework rather than just from the content you've written.
+
+[NOTE]
+====
+Automated tests will not catch all issues. Complete your accessibility assessment with a quick unit test for accessibility or follow the full accessibility test process.
+====
+
+.Screen readers
+
+There are a number of different screen readers available including the following options:
+
+* *MacOS*: link:https://support.apple.com/guide/voiceover-guide/welcome/web[VoiceOver]
+* *Linux*: link:https://help.gnome.org/users/orca/[Orca]
+* *Windows*: link:https://www.nvaccess.org/download/[NVDA]

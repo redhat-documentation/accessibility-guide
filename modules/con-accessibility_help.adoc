@@ -1,0 +1,24 @@
+[id="con-accessibility_help"]
+
+= Getting help with accessibility
+
+[role="_abstract"]
+Red Hat has a small group of volunteers that are a part of Red Hat's accessibility initiative. Their members are eager to help and support you with accessibility compliance. Contact the CCSA11y team for help with specific needs related to providing accessible content at Red Hat. CCSA11y can provide the following assistance:
+
+* Guidance in evaluating your content for accessibility.
+* Open office hours to help individuals and groups improve their content accessibility.
+* Recommendations for testing software and accessibility technology products.
+
+//[DCD - add this back once those pages are published]Before contacting CCSA11y, please refer to the following:
+//xref:common issues,
+//xref:faq,
+//xref:checklists
+
+//[NOTE]
+//=====
+//If your questions are not answered using these resources, please consider bringing your questions to one of the monthly //Accessibility Open Office hours.
+//====
+
+//[role="_additional-resources"]
+//.Additional resources
+//* link://https://source.redhat.com/groups/public/rha11y/[Red Hat Accessibility (a11y) - RHa11y]
