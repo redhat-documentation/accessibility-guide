@@ -1,9 +1,0 @@
-[id="assembly-accessibility_intro"]
-
-= About this guide
-[role="_abstract"]
-This guide covers the principles and processes for creating accessible document content and structure, evaluating the accessibility of documents, and remediating accessibility issues in documents.
-
-include::../modules/con-accessibility_intro.adoc[leveloffset=+1]
-
-include::../modules/con-accessibility_help.adoc[leveloffset=+1]
