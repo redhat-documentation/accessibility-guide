@@ -15,7 +15,7 @@ Automated tests will not catch all issues. Complete your accessibility assessmen
 
 .Screen readers
 
-There are a number of different screen readers available including the following options:
+There are a number of different screen readers available including the following:
 
 * *MacOS*: link:https://support.apple.com/guide/voiceover-guide/welcome/web[VoiceOver]
 * *Linux*: link:https://help.gnome.org/users/orca/[Orca]

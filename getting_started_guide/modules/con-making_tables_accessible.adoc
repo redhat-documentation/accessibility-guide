@@ -3,10 +3,10 @@
 = Tables
 
 [role="_abstract"]
-Tables can be very useful in presenting meaningful data. However, they are a challenge to people who cannot visually perceive the relationships between the cells and their contents. There are limitations to creating accessible tables.
+Tables can be very useful in presenting meaningful data. However, they are a challenge to people who cannot visually perceive the relationships between the cells and their contents. There are a number of limitations to consider when creating accessible tables.
 
-Tables with a complex structure, where cells are merged or there are multiple levels of headers for any given dimension, should be avoided. Where possible, an easier option would be to plan your data presentation in such a way that you can break a complex table into a series of simpler tables. These tables will also be more usable for the general audience.
+* Tables with a complex structure, where cells are merged or there are multiple levels of headers for any given dimension, should be avoided. Where possible, an easier option would be to plan your data presentation in such a way that you can break a complex table into a series of simpler tables. These tables will also be more usable for the general audience.
 
-Nested data tables are data tables which exist inside other data tables. Nested data tables break the accessibility of the data presentation as a whole, making it impossible to associate the data and header cells correctly.
+* Nested data tables are data tables which exist inside other data tables. Nested data tables break the accessibility of the data presentation as a whole, making it impossible to associate the data and header cells correctly.
 
 //For additional guidance on creating accessible tables, see link://https://source.redhat.com/groups/public/ccs/ccs_blog/accessibility_of_tables[Accessibility of tables].
